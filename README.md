@@ -2,7 +2,7 @@
  jeu du "Qui est-ce?" en java, tout en mode console mais avec le dessin des têtes.
  
  I) DCLA
- ![DIAG CLASSES](DCLA.pndg)
+ ![DIAG CLASSES](DCLA.png)
  
  II) CODE SCE
   cfs JAVE_SCE_QUI_EST_CE.ZIP
@@ -12,7 +12,7 @@
   
  IV) les dessins
  
- ![TROMBINOSCOPE](TROMBI.pndg)
+ ![TROMBINOSCOPE](TROMBI.png)
 
 V les données utilisées(fichier .properties)
 
