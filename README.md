@@ -16,10 +16,11 @@
  ![TROMBINOSCOPE](TROMBI.PNG)
 
 ## V) les données utilisées(fichier .properties)
+Les données sont chargées à partir d'un fichier properties.
 
- ![properties](donnees.png)
+![properties](donnees.png)
 
-### les carcatéristiques de bases:
+### les caractéristiques de bases:
  
  * S : pour SEXE
  * CH: pour CHEVEUX
