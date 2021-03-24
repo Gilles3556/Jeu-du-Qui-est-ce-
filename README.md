@@ -12,23 +12,23 @@
   
  IV) les dessins
  
- ![TROMBINOSCOPE](TROMBI.png)
+ ![TROMBINOSCOPE](TROMBI.PNG)
 
 V les données utilisées(fichier .properties)
 
  ![properties](donnees.png)
 
 les carcatéristiques de bases:
-S  pour SEXE
-CH pour CHEVEUX
-Y  pour YEUX
+ -S  pour SEXE
+ -CH pour CHEVEUX
+ -Y  pour YEUX
 
 considérés comme accessoires:
-L pour LUNETTE
-B. pour BARBE
-M pour MOUSTACHE
-B pour BOUCLE OREILLE
-CIG pour CIGARE
+ -L pour LUNETTE
+-B. pour BARBE
+-M pour MOUSTACHE
+-B pour BOUCLE OREILLE
+-CIG pour CIGARE
 
 
 Des tests sont à poursuivre, il reste quelques cas qui ne fonctionent pas !
