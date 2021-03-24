@@ -19,13 +19,13 @@
 
  ![properties](donnees.png)
 
-###les carcatéristiques de bases:
+### les carcatéristiques de bases:
  
  * S : pour SEXE
  * CH: pour CHEVEUX
  * Y : pour YEUX
 
-###considérés comme accessoires:
+### considérés comme accessoires:
  * L:   pour LUNETTE
  * B.:  pour BARBE
  * M:   pour MOUSTACHE
